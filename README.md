@@ -4,6 +4,9 @@
 The company rolled out a new in-game monetization feature to a subset of users (Group B), while the rest remained on the old version (Group A).
 The goal is to evaluate whether the new feature improves monetization without negatively affecting user engagement.
 
+## Dataset
+https://www.kaggle.com/datasets/debs2x/gamelytics-mobile-analytics-challenge
+
 ## Hypotheses
 
 ### Primary hypothesis
