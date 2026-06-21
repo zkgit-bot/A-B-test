@@ -1,4 +1,4 @@
-# A/B Test of Gaming Dataset with Python and Tableau
+# A/B Test of Gaming Dataset with Python
 
 ## Business problem
 The company rolled out a new in-game monetization feature to a subset of users (Group B), while the rest remained on the old version (Group A).
